@@ -1,6 +1,12 @@
 [
   {
     "id": "2",
+    "name": "إذاعة البهجة",
+    "propellant": "http://92.222.103.13:8005/stream/1/",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/el-bahdja.png"
+  },
+  {
+    "id": "2",
     "name": "Radio Coran",
     "propellant": "http://92.222.103.13:8005/stream/1/",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/radiocoran.png"
