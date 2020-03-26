@@ -2,7 +2,7 @@
   {
     "id": "2",
     "name": "إذاعة البهجة",
-    "propellant": "http://92.222.103.13:8005/stream/1/",
+    "propellant": "https://elbahdja.ice.infomaniak.ch/elbahdja-64.aac",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/el-bahdja.png"
   },
   {
@@ -13,8 +13,98 @@
   },
   {
     "id": "5",
+    "name": "جيل أف أم",
+    "propellant": "https://jil-fm.ice.infomaniak.ch/jilfm.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/jil-fm.png"
+  },
+  {
+    "id": "5",
+    "name": "القناة الثالثة",
+    "propellant": "https://ch3.ice.infomaniak.ch/ch3-64.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/chaine-3.png"
+  },
+  {
+    "id": "5",
     "name": "Izlanzik Radio",
     "propellant": "http://server.izlanzik.org:8000/stream/1/",
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/i.jpg?token=AiH6StTGR8A1rNwRrFbSsksFyKA1qBssks5ck7CswA%3D%3D"
+  },
+  {
+    "id": "5",
+    "name": "القناة الثانية",
+    "propellant": "https://ch2.ice.infomaniak.ch/ch2-64.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/algerienne-chaine-2.png"
+  },
+  {
+    "id": "5",
+    "name": "إذاعة القرآن الكريم",
+    "propellant": "https://coran.ice.infomaniak.ch/coran.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/coran.png"
+  },
+  {
+    "id": "5",
+    "name": "مورجاجو أف أم",
+    "propellant": "https://streamingv2.shoutcast.com/Murdjajo",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/murdjajo-fm.png"
+  },
+  {
+    "id": "5",
+    "name": "إذاعة دزاير الشبابية",
+    "propellant": "http://188.165.242.25:8012/stream/1/",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/dzair-echaabia.png"
+  },
+  {
+    "id": "5",
+    "name": "الإذاعة الثقافية",
+    "propellant": "https://culture.ice.infomaniak.ch/culture.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/algeria-koran-culture.png"
+  },
+  {
+    "id": "5",
+    "name": "القناة الأولى",
+    "propellant": "https://ch3.ice.infomaniak.ch/ch3-64.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/alger-chaine-1.png"
+  },
+  {
+    "id": "5",
+    "name": "أذاعة قالمة",
+    "propellant": "https://guelma.ice.infomaniak.ch/24.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/guelma.png"
+  },
+  {
+    "id": "5",
+    "name": "إذاعة ساور بشار",
+    "propellant": "https://bechar.ice.infomaniak.ch/08.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/saoura-bechar.png"
+  },
+  {
+    "id": "5",
+    "name": "إذاعة دزاير راينا",
+    "propellant": "http://188.165.242.25:8020/stream/1/",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/dzair-raina.png"
+  },
+  {
+    "id": "5",
+    "name": "إذاعة هوانا",
+    "propellant": "https://streamingv2.shoutcast.com/Radio-Hawana",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/hawana-fm.png"
+  },
+  {
+    "id": "5",
+    "name": "الإذاعة الدولية",
+    "propellant": "https://rai.ice.infomaniak.ch/rai-64.aac",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/algerie-internationale.png"
+  },
+  {
+    "id": "5",
+    "name": "إذاعة دزاير الأندلسية",
+    "propellant": "http://188.165.242.25:8038/stream/1/",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/dzair-al-andaloussia.png"
+  },
+  {
+    "id": "5",
+    "name": "إذاعة دزاير أوراس",
+    "propellant": "http://188.165.242.25:8044/stream/1/",
+    "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/dzair-aures.png"
   },
 ]
