@@ -24,12 +24,6 @@
     "imageurl": "https://raw.githubusercontent.com/DWaxben/RA/master/chaine-3.png"
   },
   {
-    "id": "5",
-    "name": "Izlanzik Radio",
-    "propellant": "http://server.izlanzik.org:8000/stream/1/",
-    "imageurl": "https://raw.githubusercontent.com/DWaxben/RAM/master/i.jpg?token=AiH6StTGR8A1rNwRrFbSsksFyKA1qBssks5ck7CswA%3D%3D"
-  },
-  {
     "id": "6",
     "name": "القناة الثانية",
     "propellant": "https://ch2.ice.infomaniak.ch/ch2-64.aac",
